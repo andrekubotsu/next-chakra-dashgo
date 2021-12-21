@@ -1,6 +1,6 @@
 // here we put all customizations that will be implemente through ChakraUI
 
-import { background, extendTheme } from '@chakra-ui/react'
+import { extendTheme } from '@chakra-ui/react'
 
 export const theme = extendTheme({
     colors: {
