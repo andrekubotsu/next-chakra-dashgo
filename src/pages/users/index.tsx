@@ -16,7 +16,7 @@ import {
 import { RiPencilLine, RiUserAddLine } from "react-icons/ri";
 import { Header } from "../../components/Header";
 import { Pagination } from "../../components/Pagination";
-import { Sidebar } from "../../components/Siidebar";
+import { Sidebar } from "../../components/Sidebar";
 
 export default function UserList() {
   return (
